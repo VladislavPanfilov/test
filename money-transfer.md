@@ -31,7 +31,7 @@ To transfer money using online banking, follow these steps:
 1. Go to [Transfers](https://www.tbank.ru/payments/transfers/) and select the transfer method:
    - **By phone number**: Use the Fast Payment System.
    - **By card number**: Transfer to another bank card.
-   - **By account details**: Use the recipient's full bank account information.
+   - **By account details**: Use the recipient's full bank account details.
 
      ![Transfer method selection in T-Bank online banking](./images/money-transfer/online-banking/transfer-method.png)
 
