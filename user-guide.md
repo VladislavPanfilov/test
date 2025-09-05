@@ -106,20 +106,20 @@ To update user information, follow these steps:
 
 2. On the user’s details page, click **Edit User** in the top-right corner.
 
-3. Update the following profile fields:
+3. The following profile fields can be updated:
    - First name
    - Last name
-   - Nickname — optional
+   - Nickname
    - Date of birth
    - Gender
    - Phone number
-   - Address — optional
+   - Address
    - City
-   - Country — optional
-   - Profession — optional
-   - Time zone — optional
-   - Security question — optional
-   - ID number — optional
+   - Country
+   - Profession
+   - Time zone
+   - Security question
+   - ID number
 
 4. Click **Update User** to save changes.
 
